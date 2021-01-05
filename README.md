@@ -1,4 +1,4 @@
 # invie
 Las guitarras más locas
-
-http://leonidasesteban.github.io/invie-responsive/
+Url para navegar
+https://rojastr.github.io/invie-github/
